@@ -1,9 +1,11 @@
 # 🛒 **SmartCart**
 
-**SmartCart** es una aplicación innovadora para la planificación de compras en supermercados.  
-Con ella, podrás crear listas de productos, encontrar opciones más económicas y obtener recomendaciones de recetas basadas en los productos seleccionados.
-‼️ **NOTA:**  Debido a las limitaciones con las APIs disponibles, no pude acceder a todos los datos necesarios, por lo que implementé varias soluciones improvisadas. Por ejemplo, el precio de los productos y las recomendaciones de productos en función del precio se generan mediante una función aleatoria. En cuanto a las recomendaciones de recetas, creé un archivo .js con una selección de recetas, ya que no pude encontrar ninguna API confiable en español para integrarla. ‼️
-‼️ **NOTA:** El archivo firebaseConfig.js no se incluye, ya que contiene información sensible..‼️
+**SmartCart** es una aplicación innovadora para la planificación de compras en supermercados. Con ella, podrás crear listas de productos, encontrar opciones más económicas y obtener recomendaciones de recetas basadas en los productos seleccionados.
+
+‼️ **NOTA 1**: Debido a las limitaciones con las APIs disponibles, no pude acceder a todos los datos necesarios, por lo que implementé varias soluciones improvisadas. Por ejemplo, el precio de los productos y las recomendaciones de productos en función del precio se generan mediante una función aleatoria. En cuanto a las recomendaciones de recetas, creé un archivo `.js` con una selección de recetas, ya que no pude encontrar ninguna API confiable en español para integrarla.
+
+‼️ **NOTA 2**: El archivo `firebaseConfig.js` no se incluye, ya que contiene información sensible.
+
 ---
 
 ## ‼️ **Funcionalidades**
