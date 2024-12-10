@@ -8,6 +8,8 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
+
+#FALTA EL FIRE BASE CONFIG ya que tiene la API KEY
 firebaseConfig.js
 
 # Native
